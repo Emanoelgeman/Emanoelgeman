@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Estou criando um programa voltado a finanças que calcula investimentos de duas pessoas<br>💪 Quero muito entrar em uma equipe que me apoie para um dia apoiar mais pessoas<br>🤝Sou proativo, se precisar de algo ao meu alcance vou tentar resolver<br>💥 No momento estou aprendendo Python<br>⚡ Amo aprender coisas novas e que sejam úteis de alguma maneira
+🎯 Estou criando um programa voltado a finanças que calcula investimentos de duas pessoas<br>💪 Quero muito entrar em uma equipe que me apoie para um dia poder apoiar pessoas<br>🤝Sou proativo, se precisar de algo ao meu alcance vou tentar resolver<br>💥 No momento estou aprendendo Python<br>⚡ Amo aprender coisas novas e que sejam úteis de alguma maneira
 
 
 ## 🌐 Socials:
